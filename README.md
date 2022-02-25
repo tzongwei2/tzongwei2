@@ -6,8 +6,8 @@
 ## Coding Stats
 
 <a href="https://github.com/ankitha-anil">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ankitha-anil&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankitha-anil&layout=compact&langs_count=8&theme=react"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tzongwei2&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tzongwei2&layout=compact&langs_count=8&theme=react"/>
 </a>
 
 ## Languages and tools
