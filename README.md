@@ -5,7 +5,7 @@
 
 ## Coding Stats
 
-<a href="https://github.com/ankitha-anil">
+<a href="https://github.com/tzongwei2">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tzongwei2&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tzongwei2&layout=compact&langs_count=8&theme=react"/>
 </a>
