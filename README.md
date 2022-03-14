@@ -2,13 +2,6 @@
 
 👨‍🎓: Computer Science student at Nanyang Technological University, Singapore.
 
-
-## Coding Stats
-
-<a href="https://github.com/tzongwei2">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tzongwei2&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-</a>
-
 ## Languages and tools
 
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="50" height="50"></a>
