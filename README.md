@@ -1,6 +1,13 @@
 ## Hi I'm Zong Wei <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
 
-👨‍🎓: Computer Science student at Nanyang Technological University, Singapore.
+👨‍🎓: Computer Science student at Nanyang Technological University, Singapore.<br><br>
+My Interests:
+<ul>
+  <li>Artificial Intelligence</li>
+  <li>Front End Web Development</li>
+  <li>Digital Art</li>
+  <li>Stocks/Cryptocurrencies</li>
+  </ul>
 
 ## Languages and tools
 
