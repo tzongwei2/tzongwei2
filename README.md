@@ -22,6 +22,8 @@ My Interests:
 <a href="https://code.visualstudio.com" title="VisualStudioCode"><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VisualStudioCode" width="50" height="50"></a>
 <a href="https://flutter.dev" title="FLutter"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/flutter.svg"  width="50" height="50"></a>
 
+## Medium Articles
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tzongwei2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tzongwei2/0" alt="Recent Article 0"> 
 
 ## Connect with me!
 [<img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-512.png" width="70" height="70">][1]
