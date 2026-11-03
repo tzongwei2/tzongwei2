@@ -1,19 +1,12 @@
 ## Hi I'm Zong Wei <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
 
-👨‍💻: Senior Software Engineer at Synapxe, Singapore — building nationwide healthcare payment systems on AWS.<br><br>
+👨‍💻: Senior Software Engineer, Singapore — building nationwide healthcare payment systems on AWS.<br><br>
 What I do:
 <ul>
   <li>Core developer of a rule engine running 200+ payment rules for a nationwide disbursement system</li>
   <li>Serverless data pipelines on AWS (Lambda, Step Functions, Glue, DynamoDB, RDS)</li>
   <li>Agentic AI for software delivery — multi-agent pipelines that plan, code, review, test and ship</li>
   <li>LLM-maintained knowledge bases that keep requirements and code in sync</li>
-  </ul>
-
-## Featured projects
-<ul>
-  <li><a href="https://github.com/tzongwei2/claude-agent-hub">claude-agent-hub</a> — a local Teams-style web UI for running multiple independent Claude Code sessions</li>
-  <li><a href="https://github.com/tzongwei2/herdr-sidebar">herdr-sidebar</a> — VS Code-style file explorer + git source control pane with AI commit messages</li>
-  <li><a href="https://github.com/tzongwei2/todoo">todoo</a> — a todo list that lives in your terminal; one Python file, no dependencies</li>
   </ul>
 
 ## Languages and tools
