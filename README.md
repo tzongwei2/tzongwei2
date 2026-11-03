@@ -1,13 +1,6 @@
 ## Hi I'm Zong Wei <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
 
-👨‍💻: Senior Software Engineer, Singapore — building nationwide healthcare payment systems on AWS.<br><br>
-What I do:
-<ul>
-  <li>Core developer of a rule engine running 200+ payment rules for a nationwide disbursement system</li>
-  <li>Serverless data pipelines on AWS (Lambda, Step Functions, Glue, DynamoDB, RDS)</li>
-  <li>Agentic AI for software delivery — multi-agent pipelines that plan, code, review, test and ship</li>
-  <li>LLM-maintained knowledge bases that keep requirements and code in sync</li>
-  </ul>
+👨‍💻: Senior Software Engineer<br><br>
 
 ## Languages and tools
 
